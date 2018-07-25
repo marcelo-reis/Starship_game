@@ -1,3 +1,8 @@
+'''
+Criado por: Marcelo Reis
+Data: 25/07/2018
+Ultima Atualização __/__/__
+'''
 import pygame
 from pygame.locals import *
 from sys import exit
