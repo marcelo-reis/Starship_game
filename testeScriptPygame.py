@@ -11,11 +11,11 @@ from sys import exit
 from random import randint
 
 # Algumas imagens podem possuir direitos autorais
-imagem_fundo  = '/Python36-32/projetos/testeScriptPygame/background01.jpg'
-sprite_rocha1 = '/Python36-32/projetos/testeScriptPygame/sprite_rock01_35px.png'
-sprite_rocha2 = '/Python36-32/projetos/testeScriptPygame/sprite_rock02_50px.png'
-sprite_rocha3 = '/Python36-32/projetos/testeScriptPygame/sprite_rock03_130px.png'
-sprite_nave   = '/Python36-32/projetos/testeScriptPygame/sprite_spaceship01.png'
+imagem_fundo  = '/.../background01.jpg'
+sprite_rocha1 = '/.../sprite_rock01_35px.png'
+sprite_rocha2 = '/.../sprite_rock02_50px.png'
+sprite_rocha3 = '/.../sprite_rock03_130px.png'
+sprite_nave   = '/.../sprite_spaceship01.png'
 
 # Largura e Altura da tela
 largura = 640
