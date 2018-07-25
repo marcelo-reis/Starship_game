@@ -10,7 +10,7 @@ from sys import exit
 # Para poder usar o método randint
 from random import randint
 
-# Algumas imagens podem possuir direitos autorais
+# Algumas imagens podem possuir direitos autorais e estão aqui apenas para teste
 imagem_fundo  = '/.../background01.jpg'
 sprite_rocha1 = '/.../sprite_rock01_35px.png'
 sprite_rocha2 = '/.../sprite_rock02_50px.png'
