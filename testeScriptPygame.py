@@ -1,8 +1,9 @@
-'''
-Criado por: Marcelo Reis
-Data: 25/07/2018
-Ultima Atualização __/__/__
-'''
+# '''
+# Criado por: Marcelo Reis
+# Data: 25/07/2018
+# Ultima Atualização __/__/__
+# '''
+
 import pygame
 from pygame.locals import *
 from sys import exit
@@ -44,7 +45,7 @@ pos_rocha3_y = randint(0, 480)
 
 speed_nave = 200
 pos_nave_x = -100
-pos_nave_y = randint(20, 460)
+pos_nave_y = randint(81, 379)
 
 while True:
     
@@ -84,6 +85,6 @@ while True:
         pos_nave_x += mover_nave
         if pos_nave_x > 740:
             pos_nave_x = -100
-            pos_nave_y = randint(20,460)
+            pos_nave_y = randint(81,379)
 
         pygame.display.flip()
