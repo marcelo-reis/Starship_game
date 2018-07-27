@@ -12,7 +12,7 @@ from random import randint
 
 
 # Algumas imagens podem possuir direitos autorais e estão aqui apenas para teste
-imagem_fundo  = '/Python36-32/Starship_game-master/background02.jpg'
+imagem_fundo  = '/Python36-32/Starship_game-master/background01.jpg'
 sprite_rocha1 = '/Python36-32/Starship_game-master/sprite_rock01_35px.png'
 sprite_rocha2 = '/Python36-32/Starship_game-master/sprite_rock02_50px.png'
 sprite_rocha3 = '/Python36-32/Starship_game-master/sprite_rock03_130px.png'
