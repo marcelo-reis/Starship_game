@@ -19,8 +19,8 @@ sprite_rocha3 = '/Python36-32/Starship_game-master/sprite_rock03_130px.png'
 sprite_nave   = '/Python36-32/Starship_game-master/sprite_spaceship01.png'
 
 # Largura e Altura da tela
-largura = 627
-altura  = 339
+largura = 640
+altura  = 480
 tamanho_tela = (largura, altura)
 
 pygame.init()
